@@ -26,7 +26,6 @@ python atm.py or py atm.py
 ## Main Menu
 After running the program, the following menu appears:
 
-==================================================
             PYTHON ATM SIMULATION
 ==================================================
 
@@ -61,7 +60,6 @@ Safely closes the application.
 
 After successful login, the following menu appears:
 
-==================================================
                 ATM MENU
 ==================================================
 
