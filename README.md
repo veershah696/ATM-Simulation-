@@ -77,23 +77,30 @@ Enter Account number:
 Enter pin:
 
 After check this
-1. Check Balance 
+1. Check Balance
+   
 Displays the current account balance.
 
 2. Deposit Money
+   
 Adds money to the user's account and updates the balance.
 
 3. Withdraw Money
+   
 Withdraws money if sufficient balance is available.
 
 4. Change PIN
+   
 Allows the user to change their 4-digit ATM PIN securely.
 
 5. Mini Statement
+   
 Displays all transaction history along with date and time.
 
 6. Logout
+   
 Logs out the current user and returns to the Main Menu.
 
 7. Exit
+   
 Saves all data and exits the application
