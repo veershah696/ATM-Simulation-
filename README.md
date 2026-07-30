@@ -22,3 +22,80 @@ A Python-based ATM Simulation System that allows users to create an account, sec
 ## Run the application using the following command:
 
 python atm.py or py atm.py
+
+## Main Menu
+After running the program, the following menu appears:
+
+==================================================
+            PYTHON ATM SIMULATION
+==================================================
+
+1. Create New Account
+2. Login
+3. Exit
+
+==================================================
+Enter your choice:
+
+Option 1 – Create New Account
+
+Creates a new ATM account by entering:
+
+Full Name
+10-digit Card Number
+4-digit PIN
+Confirm PIN
+Initial Deposit
+If all details are valid, the account is created successfully and stored in users.json.
+
+Option 2 – Login
+
+Log in using your registered Card Number and PIN.
+After successful login, the ATM Menu is displayed.
+
+Option 3 – Exit
+
+Safely closes the application.
+
+## ATM Menu
+
+After successful login, the following menu appears:
+
+==================================================
+                ATM MENU
+==================================================
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Change PIN
+5. Mini Statement
+6. Logout
+7. Exit
+
+==================================================
+Enter your choice:
+Enter Account number:
+Enter pin:
+
+After check this
+1. Check Balance 
+Displays the current account balance.
+
+2. Deposit Money
+Adds money to the user's account and updates the balance.
+
+3. Withdraw Money
+Withdraws money if sufficient balance is available.
+
+4. Change PIN
+Allows the user to change their 4-digit ATM PIN securely.
+
+5. Mini Statement
+Displays all transaction history along with date and time.
+
+6. Logout
+Logs out the current user and returns to the Main Menu.
+
+7. Exit
+Saves all data and exits the application
