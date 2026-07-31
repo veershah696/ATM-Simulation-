@@ -73,6 +73,7 @@ After successful login, the following menu appears:
 7. Exit
 
 ==================================================
+
 Enter your choice:
 
 Enter Account number:
