@@ -34,6 +34,7 @@ After running the program, the following menu appears:
 3. Exit
 
 ==================================================
+
 Enter your choice:
 
 Option 1 – Create New Account
