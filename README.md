@@ -73,7 +73,9 @@ After successful login, the following menu appears:
 
 ==================================================
 Enter your choice:
+
 Enter Account number:
+
 Enter pin:
 
 After check this
