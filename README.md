@@ -108,3 +108,6 @@ Logs out the current user and returns to the Main Menu.
 7. Exit
    
 Saves all data and exits the application
+
+## Contributors
+Veershah696 
