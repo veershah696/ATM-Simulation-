@@ -114,4 +114,4 @@ Veershah696  is the owner of this project
 
 ## Licenses
 
-MT
+MIT
