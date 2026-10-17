@@ -112,6 +112,6 @@ Saves all data and exits the application
 ## Contributors
 Veershah696  is the owner of this project 
 
-##Licenses
+## Licenses
 
 MT
