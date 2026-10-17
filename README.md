@@ -110,4 +110,7 @@ Logs out the current user and returns to the Main Menu.
 Saves all data and exits the application
 
 ## Contributors
-Veershah696 
+Veershah696  is the owner of this project 
+
+##Licenses
+MT
